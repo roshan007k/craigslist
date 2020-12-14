@@ -1,0 +1,1 @@
+web: gunicorn craigs.wsgi —log-file -
